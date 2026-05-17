@@ -1,7 +1,15 @@
-<<<<<<< HEAD
-# Emotion Detection Project
+# Final Project
 
-This project performs emotion detection using Watson NLP.
-=======
-# EmotionDetection
->>>>>>> e5d4d6b6d3b6ab8aa180f2b1d622da95b4ea578b
+This project is a Flask-based Emotion Detection application developed using Watson NLP.
+
+## Features
+
+- Detects emotions from text
+- Returns dominant emotion
+- Uses Watson NLP EmotionPredict API
+- Includes Flask web deployment
+- Includes unit testing and error handling
+
+## Author
+
+Shrutika Asalkar
